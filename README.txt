@@ -4,4 +4,3 @@ Read this for instructions
 - close hello.txt
 - read LICENSE
 
-This is groovy, we just made v0.0.1
